@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/thferebee/PhenoEval-Coexpress-manubot/tree/gh-pages) branch hosts the contents of this directory at <https://thferebee.github.io/PhenoEval-Coexpress-manubot/>.
-The permalink for this webpage version is <https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/025cb92534ad20bd67c09961707c3cb5bce0e8b3/>.
+The permalink for this webpage version is <https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/02ef981f648d712fc1c19982e31ad71d8c1f6731/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`025cb92534ad20bd67c09961707c3cb5bce0e8b3`](https://github.com/thferebee/PhenoEval-Coexpress-manubot/commit/025cb92534ad20bd67c09961707c3cb5bce0e8b3).
+[`02ef981f648d712fc1c19982e31ad71d8c1f6731`](https://github.com/thferebee/PhenoEval-Coexpress-manubot/commit/02ef981f648d712fc1c19982e31ad71d8c1f6731).
