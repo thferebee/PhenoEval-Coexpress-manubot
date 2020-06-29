@@ -1,4 +1,5 @@
-# Automated scholarly manuscripts on GitHub
+# Prediction-based evaluation of community detection methods for maize gene expression data
+
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
@@ -12,8 +13,9 @@
 
 <!-- usage note: edit this section. -->
 
-This repository is a template manuscript (a.k.a. rootstock).
-Actual manuscript instances will clone this repository (see [`SETUP.md`](SETUP.md)) and replace this paragraph with a description of their manuscript.
+Biological networks tend to self organize in modules or, more generally, motifs. Over time, these motifs have been associated with function, structure, and higher order plant dynamics. Further these functional motifs are associated with common phenotypes, such as plant height, flowering time, and stress response. Exploring network motif finding algorithms in biological networks, particularly in plants, is key to finding transferable network methods for cross-species identification and classification of essential genes for various phenotypes.
+
+**Target Submission to Bioarxiv:** Early September
 
 ## Manubot
 
