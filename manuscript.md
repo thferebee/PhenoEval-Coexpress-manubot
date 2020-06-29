@@ -1,6 +1,6 @@
 ---
 author-meta:
-- John Doe
+- Taylor Ferebee
 - Jane Roe
 bibliography:
 - content/manual-references.json
@@ -39,13 +39,13 @@ header-includes: '<!--
 
   <meta name="citation_technical_report_institution" content="Manubot" />
 
-  <meta name="citation_author" content="John Doe" />
+  <meta name="citation_author" content="Taylor Ferebee" />
 
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+  <meta name="citation_author_institution" content="Department of Computational Biology, Cornell University" />
 
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
 
-  <meta name="twitter:creator" content="@johndoe" />
+  <meta name="twitter:creator" content="@Ferebee2PhD" />
 
   <meta name="citation_author" content="Jane Roe" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/35608894d3a193f33e8e4d3406c2b3425af40a23/" />
+  <link rel="alternate" type="text/html" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/025cb92534ad20bd67c09961707c3cb5bce0e8b3/" />
 
-  <meta name="manubot_html_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/35608894d3a193f33e8e4d3406c2b3425af40a23/" />
+  <meta name="manubot_html_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/025cb92534ad20bd67c09961707c3cb5bce0e8b3/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/35608894d3a193f33e8e4d3406c2b3425af40a23/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/025cb92534ad20bd67c09961707c3cb5bce0e8b3/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/35608894d3a193f33e8e4d3406c2b3425af40a23/))
+([permalink](https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/025cb92534ad20bd67c09961707c3cb5bce0e8b3/))
 was automatically generated
-from [thferebee/PhenoEval-Coexpress-manubot@3560889](https://github.com/thferebee/PhenoEval-Coexpress-manubot/tree/35608894d3a193f33e8e4d3406c2b3425af40a23)
+from [thferebee/PhenoEval-Coexpress-manubot@025cb92](https://github.com/thferebee/PhenoEval-Coexpress-manubot/tree/025cb92534ad20bd67c09961707c3cb5bce0e8b3)
 on June 29, 2020.
 </em></small>
 
@@ -113,15 +113,15 @@ on June 29, 2020.
 
 
 
-+ **John Doe**<br>
++ **Taylor Ferebee**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
+    [thferebee](https://github.com/thferebee)
     · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [Ferebee2PhD](https://twitter.com/Ferebee2PhD)<br>
   <small>
-     Department of Something, University of Whatever
+     Department of Computational Biology, Cornell University
      · Funded by Grant XXXXXXXX
   </small>
 
