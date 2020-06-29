@@ -1,9 +1,9 @@
 ---
-title: "Manuscript Title"
+title: "Prediction-based evaluation of community detection methods for maize gene expression data"
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - coexpression
+  - community-detection
+  - gene-expression
 lang: en-US
 authors:
   - github: thferebee
