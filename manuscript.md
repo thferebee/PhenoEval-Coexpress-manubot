@@ -15,13 +15,13 @@ header-includes: '<!--
 
   <meta name="dc.format" content="text/html" />
 
-  <meta name="dc.title" content="Manuscript Title" />
+  <meta name="dc.title" content="Prediction-based evaluation of community detection methods for maize gene expression data" />
 
-  <meta name="citation_title" content="Manuscript Title" />
+  <meta name="citation_title" content="Prediction-based evaluation of community detection methods for maize gene expression data" />
 
-  <meta property="og:title" content="Manuscript Title" />
+  <meta property="og:title" content="Prediction-based evaluation of community detection methods for maize gene expression data" />
 
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta property="twitter:title" content="Prediction-based evaluation of community detection methods for maize gene expression data" />
 
   <meta name="dc.date" content="2020-06-29" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/025cb92534ad20bd67c09961707c3cb5bce0e8b3/" />
+  <link rel="alternate" type="text/html" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/02ef981f648d712fc1c19982e31ad71d8c1f6731/" />
 
-  <meta name="manubot_html_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/025cb92534ad20bd67c09961707c3cb5bce0e8b3/" />
+  <meta name="manubot_html_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/02ef981f648d712fc1c19982e31ad71d8c1f6731/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/025cb92534ad20bd67c09961707c3cb5bce0e8b3/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/02ef981f648d712fc1c19982e31ad71d8c1f6731/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -85,15 +85,15 @@ header-includes: '<!--
 
   <!-- end Manubot generated metadata -->'
 keywords:
-- markdown
-- publishing
-- manubot
+- coexpression
+- community-detection
+- gene-expression
 lang: en-US
 manubot-clear-requests-cache: false
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
-title: Manuscript Title
+title: Prediction-based evaluation of community detection methods for maize gene expression data
 ...
 
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/025cb92534ad20bd67c09961707c3cb5bce0e8b3/))
+([permalink](https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/02ef981f648d712fc1c19982e31ad71d8c1f6731/))
 was automatically generated
-from [thferebee/PhenoEval-Coexpress-manubot@025cb92](https://github.com/thferebee/PhenoEval-Coexpress-manubot/tree/025cb92534ad20bd67c09961707c3cb5bce0e8b3)
+from [thferebee/PhenoEval-Coexpress-manubot@02ef981](https://github.com/thferebee/PhenoEval-Coexpress-manubot/tree/02ef981f648d712fc1c19982e31ad71d8c1f6731)
 on June 29, 2020.
 </em></small>
 
