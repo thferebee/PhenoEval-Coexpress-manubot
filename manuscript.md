@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/70c330826f059a7355e9af7236438669a7740efd/" />
+  <link rel="alternate" type="text/html" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/1e353d6b67d89d270fb6ba40a0421d9223ab7a4b/" />
 
-  <meta name="manubot_html_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/70c330826f059a7355e9af7236438669a7740efd/" />
+  <meta name="manubot_html_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/1e353d6b67d89d270fb6ba40a0421d9223ab7a4b/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/70c330826f059a7355e9af7236438669a7740efd/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/1e353d6b67d89d270fb6ba40a0421d9223ab7a4b/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Prediction-based evaluation of community detection methods for maize gene
 
 <small><em>
 This manuscript
-([permalink](https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/70c330826f059a7355e9af7236438669a7740efd/))
+([permalink](https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/1e353d6b67d89d270fb6ba40a0421d9223ab7a4b/))
 was automatically generated
-from [thferebee/PhenoEval-Coexpress-manubot@70c3308](https://github.com/thferebee/PhenoEval-Coexpress-manubot/tree/70c330826f059a7355e9af7236438669a7740efd)
+from [thferebee/PhenoEval-Coexpress-manubot@1e353d6](https://github.com/thferebee/PhenoEval-Coexpress-manubot/tree/1e353d6b67d89d270fb6ba40a0421d9223ab7a4b)
 on July 13, 2020.
 </em></small>
 
@@ -145,6 +145,10 @@ on July 13, 2020.
 
 
 ## Introduction
+
+
+## Materials and Methods
+### Community Detection Methods
 
 
 ## References {.page_break_before}
