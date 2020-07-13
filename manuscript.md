@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/e9b6ee8142deadfff34937b17b26d04424c9cb54/" />
+  <link rel="alternate" type="text/html" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/193e8f39c44012b7416205917ab97d5d16584b37/" />
 
-  <meta name="manubot_html_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/e9b6ee8142deadfff34937b17b26d04424c9cb54/" />
+  <meta name="manubot_html_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/193e8f39c44012b7416205917ab97d5d16584b37/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/e9b6ee8142deadfff34937b17b26d04424c9cb54/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/193e8f39c44012b7416205917ab97d5d16584b37/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Prediction-based evaluation of community detection methods for maize gene
 
 <small><em>
 This manuscript
-([permalink](https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/e9b6ee8142deadfff34937b17b26d04424c9cb54/))
+([permalink](https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/193e8f39c44012b7416205917ab97d5d16584b37/))
 was automatically generated
-from [thferebee/PhenoEval-Coexpress-manubot@e9b6ee8](https://github.com/thferebee/PhenoEval-Coexpress-manubot/tree/e9b6ee8142deadfff34937b17b26d04424c9cb54)
+from [thferebee/PhenoEval-Coexpress-manubot@193e8f3](https://github.com/thferebee/PhenoEval-Coexpress-manubot/tree/193e8f39c44012b7416205917ab97d5d16584b37)
 on July 13, 2020.
 </em></small>
 
