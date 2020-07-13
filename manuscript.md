@@ -4,7 +4,7 @@ author-meta:
 - Jane Roe
 bibliography:
 - content/manual-references.json
-date-meta: '2020-06-29'
+date-meta: '2020-07-13'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,9 +23,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Prediction-based evaluation of community detection methods for maize gene expression data" />
 
-  <meta name="dc.date" content="2020-06-29" />
+  <meta name="dc.date" content="2020-07-13" />
 
-  <meta name="citation_publication_date" content="2020-06-29" />
+  <meta name="citation_publication_date" content="2020-07-13" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/30df3d1b4f43ec294d24798dabb31e929463eeaa/" />
+  <link rel="alternate" type="text/html" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/c30d7fd12ee6ae73235d645d224134258c050eed/" />
 
-  <meta name="manubot_html_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/30df3d1b4f43ec294d24798dabb31e929463eeaa/" />
+  <meta name="manubot_html_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/c30d7fd12ee6ae73235d645d224134258c050eed/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/30df3d1b4f43ec294d24798dabb31e929463eeaa/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/c30d7fd12ee6ae73235d645d224134258c050eed/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,10 +103,10 @@ title: Prediction-based evaluation of community detection methods for maize gene
 
 <small><em>
 This manuscript
-([permalink](https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/30df3d1b4f43ec294d24798dabb31e929463eeaa/))
+([permalink](https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/c30d7fd12ee6ae73235d645d224134258c050eed/))
 was automatically generated
-from [thferebee/PhenoEval-Coexpress-manubot@30df3d1](https://github.com/thferebee/PhenoEval-Coexpress-manubot/tree/30df3d1b4f43ec294d24798dabb31e929463eeaa)
-on June 29, 2020.
+from [thferebee/PhenoEval-Coexpress-manubot@c30d7fd](https://github.com/thferebee/PhenoEval-Coexpress-manubot/tree/c30d7fd12ee6ae73235d645d224134258c050eed)
+on July 13, 2020.
 </em></small>
 
 ## Authors
