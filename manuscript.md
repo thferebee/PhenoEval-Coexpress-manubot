@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/1e353d6b67d89d270fb6ba40a0421d9223ab7a4b/" />
+  <link rel="alternate" type="text/html" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/661d13bfbb78592f0375547f0a4eae14e0193c40/" />
 
-  <meta name="manubot_html_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/1e353d6b67d89d270fb6ba40a0421d9223ab7a4b/" />
+  <meta name="manubot_html_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/661d13bfbb78592f0375547f0a4eae14e0193c40/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/1e353d6b67d89d270fb6ba40a0421d9223ab7a4b/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/661d13bfbb78592f0375547f0a4eae14e0193c40/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Prediction-based evaluation of community detection methods for maize gene
 
 <small><em>
 This manuscript
-([permalink](https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/1e353d6b67d89d270fb6ba40a0421d9223ab7a4b/))
+([permalink](https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/661d13bfbb78592f0375547f0a4eae14e0193c40/))
 was automatically generated
-from [thferebee/PhenoEval-Coexpress-manubot@1e353d6](https://github.com/thferebee/PhenoEval-Coexpress-manubot/tree/1e353d6b67d89d270fb6ba40a0421d9223ab7a4b)
+from [thferebee/PhenoEval-Coexpress-manubot@661d13b](https://github.com/thferebee/PhenoEval-Coexpress-manubot/tree/661d13bfbb78592f0375547f0a4eae14e0193c40)
 on July 13, 2020.
 </em></small>
 
@@ -149,6 +149,18 @@ on July 13, 2020.
 
 ## Materials and Methods
 ### Community Detection Methods
+
+__Hierarchical Clustering on a Topological Overlap Matrix__
+One of the most common clustering methods, agglomerative heiarcarchical clustering (implemented in WGCNA R package) attempts to create a heirarchy of clusters by starting with individual clusters and building to one cluster with all data. To begin the procedure, each gene is in its own cluster and a similarity (distance) matrix is considered. If two clusters (genes) are similar (close in distance), these two genes merge. If two clusters are not close, their clusters do not merge. Once again, we consider a similarity matrix between the newly formed clusters. This repeats until all clusters have merged into a single cluster. Most often, heirarchical clustering is pressented in a dendrogram form which tracks the merges of the clusters. 
+
+__Fast Greedy__
+Fast greedy community detection uses topological features of a network and an agglomative algorithm for detecting community structure. The fast greedy algorithm utilizes a network's modularity. The modularity measures the relationship between the density of links within communities compared with the rest of the network. In other words, a particilarly modular network (as biological networks are assumed to be) have commiunityes that are very connected iwhtin the community, but only have a few edges to other communities. 
+
+
+
+
+
+
 
 
 ## References {.page_break_before}

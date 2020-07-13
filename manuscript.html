@@ -51,9 +51,9 @@
   <meta name="citation_fulltext_html_url" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/" />
   <meta name="citation_pdf_url" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/1e353d6b67d89d270fb6ba40a0421d9223ab7a4b/" />
-  <meta name="manubot_html_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/1e353d6b67d89d270fb6ba40a0421d9223ab7a4b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/1e353d6b67d89d270fb6ba40a0421d9223ab7a4b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/661d13bfbb78592f0375547f0a4eae14e0193c40/" />
+  <meta name="manubot_html_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/661d13bfbb78592f0375547f0a4eae14e0193c40/" />
+  <meta name="manubot_pdf_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/661d13bfbb78592f0375547f0a4eae14e0193c40/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,9 +67,9 @@
 </header>
 <p><small><em>
 This manuscript
-(<a href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/1e353d6b67d89d270fb6ba40a0421d9223ab7a4b/">permalink</a>)
+(<a href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/661d13bfbb78592f0375547f0a4eae14e0193c40/">permalink</a>)
 was automatically generated
-from <a href="https://github.com/thferebee/PhenoEval-Coexpress-manubot/tree/1e353d6b67d89d270fb6ba40a0421d9223ab7a4b">thferebee/PhenoEval-Coexpress-manubot@1e353d6</a>
+from <a href="https://github.com/thferebee/PhenoEval-Coexpress-manubot/tree/661d13bfbb78592f0375547f0a4eae14e0193c40">thferebee/PhenoEval-Coexpress-manubot@661d13b</a>
 on July 13, 2020.
 </em></small></p>
 <h2 id="authors">Authors</h2>
@@ -98,6 +98,10 @@ Department of Something, University of Whatever; Department of Whatever, Univers
 <h2 id="introduction">Introduction</h2>
 <h2 id="materials-and-methods">Materials and Methods</h2>
 <h3 id="community-detection-methods">Community Detection Methods</h3>
+<p><strong>Hierarchical Clustering on a Topological Overlap Matrix</strong>
+One of the most common clustering methods, agglomerative heiarcarchical clustering (implemented in WGCNA R package) attempts to create a heirarchy of clusters by starting with individual clusters and building to one cluster with all data. To begin the procedure, each gene is in its own cluster and a similarity (distance) matrix is considered. If two clusters (genes) are similar (close in distance), these two genes merge. If two clusters are not close, their clusters do not merge. Once again, we consider a similarity matrix between the newly formed clusters. This repeats until all clusters have merged into a single cluster. Most often, heirarchical clustering is pressented in a dendrogram form which tracks the merges of the clusters.</p>
+<p><strong>Fast Greedy</strong>
+Fast greedy community detection uses topological features of a network and an agglomative algorithm for detecting community structure. The fast greedy algorithm utilizes a network’s modularity. The modularity measures the relationship between the density of links within communities compared with the rest of the network. In other words, a particilarly modular network (as biological networks are assumed to be) have commiunityes that are very connected iwhtin the community, but only have a few edges to other communities.</p>
 <h2 class="page_break_before" id="references">References</h2>
 <!-- Explicitly insert bibliography here -->
 <div id="refs" role="doc-bibliography">
