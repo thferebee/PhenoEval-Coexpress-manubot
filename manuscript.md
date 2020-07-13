@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/661d13bfbb78592f0375547f0a4eae14e0193c40/" />
+  <link rel="alternate" type="text/html" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/fc3170b7e7112bc6d6f3211188ac5ec01ed9d23a/" />
 
-  <meta name="manubot_html_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/661d13bfbb78592f0375547f0a4eae14e0193c40/" />
+  <meta name="manubot_html_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/fc3170b7e7112bc6d6f3211188ac5ec01ed9d23a/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/661d13bfbb78592f0375547f0a4eae14e0193c40/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/fc3170b7e7112bc6d6f3211188ac5ec01ed9d23a/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Prediction-based evaluation of community detection methods for maize gene
 
 <small><em>
 This manuscript
-([permalink](https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/661d13bfbb78592f0375547f0a4eae14e0193c40/))
+([permalink](https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/fc3170b7e7112bc6d6f3211188ac5ec01ed9d23a/))
 was automatically generated
-from [thferebee/PhenoEval-Coexpress-manubot@661d13b](https://github.com/thferebee/PhenoEval-Coexpress-manubot/tree/661d13bfbb78592f0375547f0a4eae14e0193c40)
+from [thferebee/PhenoEval-Coexpress-manubot@fc3170b](https://github.com/thferebee/PhenoEval-Coexpress-manubot/tree/fc3170b7e7112bc6d6f3211188ac5ec01ed9d23a)
 on July 13, 2020.
 </em></small>
 
@@ -141,7 +141,7 @@ on July 13, 2020.
 
 
 
-
+## Visual Abstract
 
 
 ## Introduction
@@ -157,10 +157,10 @@ __Fast Greedy__
 Fast greedy community detection uses topological features of a network and an agglomative algorithm for detecting community structure. The fast greedy algorithm utilizes a network's modularity. The modularity measures the relationship between the density of links within communities compared with the rest of the network. In other words, a particilarly modular network (as biological networks are assumed to be) have commiunityes that are very connected iwhtin the community, but only have a few edges to other communities. 
 
 
+## Results
 
 
-
-
+## Discussion
 
 
 ## References {.page_break_before}
