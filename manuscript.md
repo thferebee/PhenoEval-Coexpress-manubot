@@ -4,7 +4,7 @@ author-meta:
 - Jane Roe
 bibliography:
 - content/manual-references.json
-date-meta: '2020-07-13'
+date-meta: '2020-08-28'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,9 +23,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Prediction-based evaluation of community detection methods for maize gene expression data" />
 
-  <meta name="dc.date" content="2020-07-13" />
+  <meta name="dc.date" content="2020-08-28" />
 
-  <meta name="citation_publication_date" content="2020-07-13" />
+  <meta name="citation_publication_date" content="2020-08-28" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/fc3170b7e7112bc6d6f3211188ac5ec01ed9d23a/" />
+  <link rel="alternate" type="text/html" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/095ac3d343c7d0ed6d428496cc9de31d14c5e5c6/" />
 
-  <meta name="manubot_html_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/fc3170b7e7112bc6d6f3211188ac5ec01ed9d23a/" />
+  <meta name="manubot_html_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/095ac3d343c7d0ed6d428496cc9de31d14c5e5c6/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/fc3170b7e7112bc6d6f3211188ac5ec01ed9d23a/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/095ac3d343c7d0ed6d428496cc9de31d14c5e5c6/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,10 +103,10 @@ title: Prediction-based evaluation of community detection methods for maize gene
 
 <small><em>
 This manuscript
-([permalink](https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/fc3170b7e7112bc6d6f3211188ac5ec01ed9d23a/))
+([permalink](https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/095ac3d343c7d0ed6d428496cc9de31d14c5e5c6/))
 was automatically generated
-from [thferebee/PhenoEval-Coexpress-manubot@fc3170b](https://github.com/thferebee/PhenoEval-Coexpress-manubot/tree/fc3170b7e7112bc6d6f3211188ac5ec01ed9d23a)
-on July 13, 2020.
+from [thferebee/PhenoEval-Coexpress-manubot@095ac3d](https://github.com/thferebee/PhenoEval-Coexpress-manubot/tree/095ac3d343c7d0ed6d428496cc9de31d14c5e5c6)
+on August 28, 2020.
 </em></small>
 
 ## Authors
@@ -145,6 +145,9 @@ on July 13, 2020.
 
 
 ## Introduction
+Since the early days of microarray experiments, much of biology has focused on inferring gene function on a global scale through the creation of gene coexpression networks. Gene co-expression networks (GCNs) are an intuitive way to understand the relationships between genes with simialar gene expresssion profiles. In these networks, nodes represent genes and thhe connection between genes (edges) provide a visual 
+
+These relations are often found through mathematical methods such as Pearson correlation, mutual information
 
 
 ## Materials and Methods

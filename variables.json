@@ -7,12 +7,12 @@
       "gene-expression"
     ],
     "lang": "en-US",
-    "date-meta": "2020-07-13",
+    "date-meta": "2020-08-28",
     "author-meta": [
       "Taylor Ferebee",
       "Jane Roe"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Prediction-based evaluation of community detection methods for maize gene expression data\" />\n<meta name=\"citation_title\" content=\"Prediction-based evaluation of community detection methods for maize gene expression data\" />\n<meta property=\"og:title\" content=\"Prediction-based evaluation of community detection methods for maize gene expression data\" />\n<meta property=\"twitter:title\" content=\"Prediction-based evaluation of community detection methods for maize gene expression data\" />\n<meta name=\"dc.date\" content=\"2020-07-13\" />\n<meta name=\"citation_publication_date\" content=\"2020-07-13\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Taylor Ferebee\" />\n<meta name=\"citation_author_institution\" content=\"Department of Computational Biology, Cornell University\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@Ferebee2PhD\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://thferebee.github.io/PhenoEval-Coexpress-manubot/\" />\n<meta property=\"og:url\" content=\"https://thferebee.github.io/PhenoEval-Coexpress-manubot/\" />\n<meta property=\"twitter:url\" content=\"https://thferebee.github.io/PhenoEval-Coexpress-manubot/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://thferebee.github.io/PhenoEval-Coexpress-manubot/\" />\n<meta name=\"citation_pdf_url\" content=\"https://thferebee.github.io/PhenoEval-Coexpress-manubot/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://thferebee.github.io/PhenoEval-Coexpress-manubot/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/fc3170b7e7112bc6d6f3211188ac5ec01ed9d23a/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/fc3170b7e7112bc6d6f3211188ac5ec01ed9d23a/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/fc3170b7e7112bc6d6f3211188ac5ec01ed9d23a/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Prediction-based evaluation of community detection methods for maize gene expression data\" />\n<meta name=\"citation_title\" content=\"Prediction-based evaluation of community detection methods for maize gene expression data\" />\n<meta property=\"og:title\" content=\"Prediction-based evaluation of community detection methods for maize gene expression data\" />\n<meta property=\"twitter:title\" content=\"Prediction-based evaluation of community detection methods for maize gene expression data\" />\n<meta name=\"dc.date\" content=\"2020-08-28\" />\n<meta name=\"citation_publication_date\" content=\"2020-08-28\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Taylor Ferebee\" />\n<meta name=\"citation_author_institution\" content=\"Department of Computational Biology, Cornell University\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@Ferebee2PhD\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://thferebee.github.io/PhenoEval-Coexpress-manubot/\" />\n<meta property=\"og:url\" content=\"https://thferebee.github.io/PhenoEval-Coexpress-manubot/\" />\n<meta property=\"twitter:url\" content=\"https://thferebee.github.io/PhenoEval-Coexpress-manubot/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://thferebee.github.io/PhenoEval-Coexpress-manubot/\" />\n<meta name=\"citation_pdf_url\" content=\"https://thferebee.github.io/PhenoEval-Coexpress-manubot/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://thferebee.github.io/PhenoEval-Coexpress-manubot/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/095ac3d343c7d0ed6d428496cc9de31d14c5e5c6/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/095ac3d343c7d0ed6d428496cc9de31d14c5e5c6/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/095ac3d343c7d0ed6d428496cc9de31d14c5e5c6/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -22,7 +22,7 @@
     "manubot-clear-requests-cache": false
   },
   "manubot": {
-    "date": "July 13, 2020",
+    "date": "August 28, 2020",
     "authors": [
       {
         "github": "thferebee",
@@ -76,19 +76,19 @@
       "repo_slug": "thferebee/PhenoEval-Coexpress-manubot",
       "repo_owner": "thferebee",
       "repo_name": "PhenoEval-Coexpress-manubot",
-      "commit": "fc3170b7e7112bc6d6f3211188ac5ec01ed9d23a",
-      "triggering_commit": "fc3170b7e7112bc6d6f3211188ac5ec01ed9d23a",
-      "build_url": "https://github.com/thferebee/PhenoEval-Coexpress-manubot/commit/fc3170b7e7112bc6d6f3211188ac5ec01ed9d23a/checks",
+      "commit": "095ac3d343c7d0ed6d428496cc9de31d14c5e5c6",
+      "triggering_commit": "095ac3d343c7d0ed6d428496cc9de31d14c5e5c6",
+      "build_url": "https://github.com/thferebee/PhenoEval-Coexpress-manubot/commit/095ac3d343c7d0ed6d428496cc9de31d14c5e5c6/checks",
       "job_url": "https://github.com/thferebee/PhenoEval-Coexpress-manubot/runs/run3"
     },
     "html_url": "https://thferebee.github.io/PhenoEval-Coexpress-manubot/",
     "pdf_url": "https://thferebee.github.io/PhenoEval-Coexpress-manubot/manuscript.pdf",
-    "html_url_versioned": "https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/fc3170b7e7112bc6d6f3211188ac5ec01ed9d23a/",
-    "pdf_url_versioned": "https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/fc3170b7e7112bc6d6f3211188ac5ec01ed9d23a/manuscript.pdf",
+    "html_url_versioned": "https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/095ac3d343c7d0ed6d428496cc9de31d14c5e5c6/",
+    "pdf_url_versioned": "https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/095ac3d343c7d0ed6d428496cc9de31d14c5e5c6/manuscript.pdf",
     "manubot_version": "0.3.1",
     "rootstock_commit": "ce827c7789163dca33dfa3bd2df7aa828e57485d",
     "manuscript_stats": {
-      "word_count": 466
+      "word_count": 541
     }
   }
 }
