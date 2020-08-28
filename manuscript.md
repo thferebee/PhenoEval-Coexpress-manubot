@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/79e5dba955c4617b93ef0f740d04f2e42de46cca/" />
+  <link rel="alternate" type="text/html" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/ca527c3367b5b1b64e56826d91f661ce6959e6eb/" />
 
-  <meta name="manubot_html_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/79e5dba955c4617b93ef0f740d04f2e42de46cca/" />
+  <meta name="manubot_html_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/ca527c3367b5b1b64e56826d91f661ce6959e6eb/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/79e5dba955c4617b93ef0f740d04f2e42de46cca/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/ca527c3367b5b1b64e56826d91f661ce6959e6eb/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Prediction-based evaluation of community detection methods for maize gene
 
 <small><em>
 This manuscript
-([permalink](https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/79e5dba955c4617b93ef0f740d04f2e42de46cca/))
+([permalink](https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/ca527c3367b5b1b64e56826d91f661ce6959e6eb/))
 was automatically generated
-from [thferebee/PhenoEval-Coexpress-manubot@79e5dba](https://github.com/thferebee/PhenoEval-Coexpress-manubot/tree/79e5dba955c4617b93ef0f740d04f2e42de46cca)
+from [thferebee/PhenoEval-Coexpress-manubot@ca527c3](https://github.com/thferebee/PhenoEval-Coexpress-manubot/tree/ca527c3367b5b1b64e56826d91f661ce6959e6eb)
 on August 28, 2020.
 </em></small>
 
@@ -145,7 +145,7 @@ on August 28, 2020.
 
 
 ## Introduction
-Gene co-expression networks (GCNs) are an intuitive way to understand the relationships between genes with simialar gene expresssion profiles and infer the function of these related genes. In these networks, nodes represent genes and the connection between these nodes (edges) represent the degree of similarity between the nodes. Genes with similar biological function tend to result in similar expression profiles[@doi:10.1126/science.274.5287.546.] Because of this expectations, functional biologists tend to mine GCNs for "communities" of interacting genes by using theory from network science community.
+Gene co-expression networks (GCNs) are an intuitive way to understand the relationships between genes with simialar gene expresssion profiles and infer the function of these related genes. In these networks, nodes represent genes and the connection between these nodes (edges) represent the degree of similarity between the nodes. Genes with similar biological function tend to result in similar expression profiles[@doi:10.1126/science.274.5287.546]. Because of this expectations, functional biologists tend to mine GCNs for "communities" of interacting genes by using theory from network science community.
 
 
 ## Materials and Methods
