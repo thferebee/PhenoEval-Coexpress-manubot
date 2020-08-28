@@ -1,6 +1,5 @@
 agglomative
 agglomerative
-coexpression
 commiunityes
 dendrogram
 expresssion
@@ -11,13 +10,11 @@ heirarchical
 heirarchy
 iwhtin
 janeroe
-microarray
 modularity
 particilarly
 pressented
 simialar
 thferebee
-thhe
 WGCNA
 XXXX
 XXXXXXXX

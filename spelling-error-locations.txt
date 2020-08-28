@@ -1,9 +1,7 @@
-content/03.intro.md:2:coexpression
 content/03.intro.md:2:expresssion
 content/03.intro.md:2:GCNs
-content/03.intro.md:2:microarray
+content/03.intro.md:2:GCNs
 content/03.intro.md:2:simialar
-content/03.intro.md:2:thhe
 content/04.materials_methods.md:5:agglomerative
 content/04.materials_methods.md:5:dendrogram
 content/04.materials_methods.md:5:heiarcarchical
