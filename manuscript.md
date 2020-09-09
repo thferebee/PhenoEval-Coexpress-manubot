@@ -4,7 +4,7 @@ author-meta:
 - Jane Roe
 bibliography:
 - content/manual-references.json
-date-meta: '2020-08-28'
+date-meta: '2020-09-09'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,9 +23,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Prediction-based evaluation of community detection methods for maize gene expression data" />
 
-  <meta name="dc.date" content="2020-08-28" />
+  <meta name="dc.date" content="2020-09-09" />
 
-  <meta name="citation_publication_date" content="2020-08-28" />
+  <meta name="citation_publication_date" content="2020-09-09" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -106,7 +106,7 @@ This manuscript
 ([permalink](https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/ca527c3367b5b1b64e56826d91f661ce6959e6eb/))
 was automatically generated
 from [thferebee/PhenoEval-Coexpress-manubot@ca527c3](https://github.com/thferebee/PhenoEval-Coexpress-manubot/tree/ca527c3367b5b1b64e56826d91f661ce6959e6eb)
-on August 28, 2020.
+on September 9, 2020.
 </em></small>
 
 ## Authors
