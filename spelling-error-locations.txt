@@ -1,6 +1,8 @@
 content/03.intro.md:2:expresssion
 content/03.intro.md:2:GCNs
 content/03.intro.md:2:GCNs
+content/03.intro.md:2:highthroughput
+content/03.intro.md:2:microarrays
 content/03.intro.md:2:simialar
 content/04.materials_methods.md:5:agglomerative
 content/04.materials_methods.md:5:dendrogram

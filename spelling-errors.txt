@@ -8,8 +8,10 @@ GCNs
 heiarcarchical
 heirarchical
 heirarchy
+highthroughput
 iwhtin
 janeroe
+microarrays
 modularity
 particilarly
 pressented
