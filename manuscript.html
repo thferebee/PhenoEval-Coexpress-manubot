@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <meta name="author" content="Taylor Ferebee" />
   <meta name="author" content="Jane Roe" />
-  <meta name="dcterms.date" content="2020-09-10" />
+  <meta name="dcterms.date" content="2020-11-05" />
   <meta name="keywords" content="coexpression, community-detection, gene-expression" />
   <title>Prediction-based evaluation of community detection methods for maize gene expression data</title>
   <style>
@@ -29,8 +29,8 @@
   <meta name="citation_title" content="Prediction-based evaluation of community detection methods for maize gene expression data" />
   <meta property="og:title" content="Prediction-based evaluation of community detection methods for maize gene expression data" />
   <meta property="twitter:title" content="Prediction-based evaluation of community detection methods for maize gene expression data" />
-  <meta name="dc.date" content="2020-09-10" />
-  <meta name="citation_publication_date" content="2020-09-10" />
+  <meta name="dc.date" content="2020-11-05" />
+  <meta name="citation_publication_date" content="2020-11-05" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -51,9 +51,9 @@
   <meta name="citation_fulltext_html_url" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/" />
   <meta name="citation_pdf_url" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/0e7324ce0e3257fdfe3da24d27a1ac5b6e651cf9/" />
-  <meta name="manubot_html_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/0e7324ce0e3257fdfe3da24d27a1ac5b6e651cf9/" />
-  <meta name="manubot_pdf_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/0e7324ce0e3257fdfe3da24d27a1ac5b6e651cf9/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/e5ce8ece68171468453f9d45a526652f8efc147f/" />
+  <meta name="manubot_html_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/e5ce8ece68171468453f9d45a526652f8efc147f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/e5ce8ece68171468453f9d45a526652f8efc147f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -67,10 +67,10 @@
 </header>
 <p><small><em>
 This manuscript
-(<a href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/0e7324ce0e3257fdfe3da24d27a1ac5b6e651cf9/">permalink</a>)
+(<a href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/e5ce8ece68171468453f9d45a526652f8efc147f/">permalink</a>)
 was automatically generated
-from <a href="https://github.com/thferebee/PhenoEval-Coexpress-manubot/tree/0e7324ce0e3257fdfe3da24d27a1ac5b6e651cf9">thferebee/PhenoEval-Coexpress-manubot@0e7324c</a>
-on September 10, 2020.
+from <a href="https://github.com/thferebee/PhenoEval-Coexpress-manubot/tree/e5ce8ece68171468453f9d45a526652f8efc147f">thferebee/PhenoEval-Coexpress-manubot@e5ce8ec</a>
+on November 5, 2020.
 </em></small></p>
 <h2 id="authors">Authors</h2>
 <ul>
@@ -97,7 +97,7 @@ Department of Something, University of Whatever; Department of Whatever, Univers
 <h2 class="page_break_before" id="abstract">Abstract</h2>
 <h2 id="visual-abstract">Visual Abstract</h2>
 <h2 id="introduction">Introduction</h2>
-<p>Since the days of microarrays, functional genomics has been tasked with revealing true gene function from highthroughput data. Gene co-expression networks (GCNs) are an intuitive way to understand the relationships between genes with simialar gene expresssion profiles and infer the function of these related genes. In these networks, nodes represent genes and the connection between these nodes (edges) represent the degree of similarity between the nodes. Genes with similar biological function tend to result in similar expression profiles<span class="citation" data-cites="yj9cRjGs">[<a href="#ref-yj9cRjGs" role="doc-biblioref">1</a>]</span>. Because of this expectations, functional biologists tend to mine GCNs for “communities” of interacting genes by using theory from network science community.</p>
+<p>Since the advent of microarrays, functional genomics has been tasked with revealing true gene function from highthroughput data. Gene co-expression networks (GCNs) are an intuitive way to understand the relationships between genes with simialar gene expresssion profiles and infer the function of these related genes. In these networks, nodes represent genes and the connection between these nodes (edges) represent the degree of similarity between the nodes. Genes with similar biological function tend to result in similar expression profiles<span class="citation" data-cites="yj9cRjGs">[<a href="#ref-yj9cRjGs" role="doc-biblioref">1</a>]</span>. Because of this expectations, functional biologists tend to mine GCNs for “communities” of interacting genes by using theory from network science community.</p>
 <h2 id="materials-and-methods">Materials and Methods</h2>
 <h3 id="community-detection-methods">Community Detection Methods</h3>
 <p><strong>Hierarchical Clustering on a Topological Overlap Matrix</strong>

@@ -4,7 +4,7 @@ author-meta:
 - Jane Roe
 bibliography:
 - content/manual-references.json
-date-meta: '2020-09-10'
+date-meta: '2020-11-05'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,9 +23,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Prediction-based evaluation of community detection methods for maize gene expression data" />
 
-  <meta name="dc.date" content="2020-09-10" />
+  <meta name="dc.date" content="2020-11-05" />
 
-  <meta name="citation_publication_date" content="2020-09-10" />
+  <meta name="citation_publication_date" content="2020-11-05" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/0e7324ce0e3257fdfe3da24d27a1ac5b6e651cf9/" />
+  <link rel="alternate" type="text/html" href="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/e5ce8ece68171468453f9d45a526652f8efc147f/" />
 
-  <meta name="manubot_html_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/0e7324ce0e3257fdfe3da24d27a1ac5b6e651cf9/" />
+  <meta name="manubot_html_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/e5ce8ece68171468453f9d45a526652f8efc147f/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/0e7324ce0e3257fdfe3da24d27a1ac5b6e651cf9/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/e5ce8ece68171468453f9d45a526652f8efc147f/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,10 +103,10 @@ title: Prediction-based evaluation of community detection methods for maize gene
 
 <small><em>
 This manuscript
-([permalink](https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/0e7324ce0e3257fdfe3da24d27a1ac5b6e651cf9/))
+([permalink](https://thferebee.github.io/PhenoEval-Coexpress-manubot/v/e5ce8ece68171468453f9d45a526652f8efc147f/))
 was automatically generated
-from [thferebee/PhenoEval-Coexpress-manubot@0e7324c](https://github.com/thferebee/PhenoEval-Coexpress-manubot/tree/0e7324ce0e3257fdfe3da24d27a1ac5b6e651cf9)
-on September 10, 2020.
+from [thferebee/PhenoEval-Coexpress-manubot@e5ce8ec](https://github.com/thferebee/PhenoEval-Coexpress-manubot/tree/e5ce8ece68171468453f9d45a526652f8efc147f)
+on November 5, 2020.
 </em></small>
 
 ## Authors
@@ -145,7 +145,8 @@ on September 10, 2020.
 
 
 ## Introduction
-Since the days of microarrays, functional genomics has been tasked with revealing true gene function from highthroughput data.    Gene co-expression networks (GCNs) are an intuitive way to understand the relationships between genes with simialar gene expresssion profiles and infer the function of these related genes. In these networks, nodes represent genes and the connection between these nodes (edges) represent the degree of similarity between the nodes. Genes with similar biological function tend to result in similar expression profiles[@doi:10.1126/science.274.5287.546]. Because of this expectations, functional biologists tend to mine GCNs for "communities" of interacting genes by using theory from network science community.
+Since the advent of microarrays, functional genomics has been tasked with revealing true gene function from highthroughput data. Gene co-expression networks (GCNs) are an intuitive way to understand the relationships between genes with simialar gene expresssion profiles and infer the function of these related genes. In these networks, nodes represent genes and the connection between these nodes (edges) represent the degree of similarity between the nodes. Genes with similar biological function tend to result in similar expression profiles[@doi:10.1126/science.274.5287.546]. Because of this expectations, functional biologists tend to mine GCNs for "communities" of interacting genes by using theory from network science community.
+
 
 
 ## Materials and Methods
